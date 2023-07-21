@@ -435,7 +435,7 @@ height: 60px;
 
   }
   .proj{
-    height: 150vh;
+    height: 155vh;
     margin-bottom:50px;
   }
 
@@ -443,7 +443,7 @@ height: 60px;
   .contact_cont{
     display: flex;
     flex-direction: column;
-    height: 30vh;
+    height: 35vh;
   }
   .con1,.con2{
     text-align: center;
@@ -474,8 +474,8 @@ height: 60px;
     animation-fill-mode: forwards;
   }
   .social{
-    height: 25px;
-    width:25px;
+    height: 18px;
+    width:18px;
     margin: 10px;
   }
   .social:hover{
@@ -536,5 +536,7 @@ justify-content: space-around;
 section{
   width: 100%;
 }
-
+footer{
+  font-size: 12px;
+}
 }
