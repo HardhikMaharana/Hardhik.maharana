@@ -189,8 +189,9 @@ animation: rotate 2.5s infinite ease-in;
 }
 .card{
   background-color: #141212;
-  width: 300px;
+  width: 270px;
   border-radius: 0;
+  padding: 2%;
 }
 .card,p{
 font-size: 13px;
