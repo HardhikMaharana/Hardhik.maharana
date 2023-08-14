@@ -36,8 +36,19 @@ border-radius: 0% 0% 50% 50%;
 }
 
 .abt{
-  color: #D72323;
+  color: #03DAC5;
 }
+::-webkit-scrollbar{
+           background-color: transparent;
+           margin-block :10em;;
+
+       }
+       ::-webkit-scrollbar-thumb{
+           background-image: linear-gradient(to left, #ebc5ea, #eac1ed, #e8bdf0, #e6b9f3, #e3b6f7, #d2bdfd, #c2c3ff, #b5c9ff, #a6d6ff, #a1e1fd, #a8eaf6, #b8f1ee);
+
+           border-radius:10px;
+           border:1px solid white;
+        }
 
 
 .inh2{
